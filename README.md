@@ -1,6 +1,6 @@
-# Ready2Go - React template
+# React App template
 
-Open-source React landing page template written in JavaScript, designed for developers, who want to create a quick react application without configure every thing from scratch.
+Open-source React template written in JavaScript, designed for developers, who want to create a quick react application without configure every thing from scratch.
 </br><br>
 
 # Features
@@ -50,11 +50,11 @@ To create a new app, you have to:
 Use the following commands
 
 ```
-git clone https://github.com/jordaoqualho/ready2go-react-template.git
+git clone https://github.com/jordaoqualho/react-app-template.git
 ```
 
 ```
-cd ready2go-react-template
+cd react-app-template
 ```
 
 ```
